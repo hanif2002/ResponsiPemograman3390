@@ -1,0 +1,7 @@
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\bin\Debug\ResponsiPemograman3390.exe.config
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\bin\Debug\ResponsiPemograman3390.exe
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\bin\Debug\ResponsiPemograman3390.pdb
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\obj\Debug\ResponsiPemograman3390.csprojAssemblyReference.cache
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\obj\Debug\ResponsiPemograman3390.csproj.CoreCompileInputs.cache
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\obj\Debug\ResponsiPemograman3390.exe
+D:\TUGAS TUGAS KULIAH\Pemograman\ResponsiPemograman3390\ResponsiPemograman3390\obj\Debug\ResponsiPemograman3390.pdb
